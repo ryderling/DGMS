@@ -5,11 +5,11 @@
 In this paper, we propose an end-to-end Deep Graph Matching and Searching (**DGMS**) model for the task of semantic code retrieval. Specifically, we first represent both natural
 language query texts and programming language codes with the unified graph structured data, and then use the proposed graph matching and searching model to retrieve the best
 matching code snippet.
-![system](./Code2TextModel_3.png)
+![system](./Model.png)
 
 ### 1.1 citation:
 
-> Xiang Ling, Lingfei Wu, Saizhuo Wang, Gaoning Pan, Tengfei Ma, Fangli Xu, Alex X. Liu, Chunming Wu, and Shouling Ji, **Deep Graph Matching and Searching for Semantic Code Retrieval**, ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2021.
+Xiang Ling, Lingfei Wu, Saizhuo Wang, Gaoning Pan, Tengfei Ma, Fangli Xu, Alex X. Liu, Chunming Wu, and Shouling Ji, **Deep Graph Matching and Searching for Semantic Code Retrieval**, ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2021.
 
 ### 1.2 glance:
 
