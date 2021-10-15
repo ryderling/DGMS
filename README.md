@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-In this paper, we propose [an end-to-end Deep Graph Matching and Searching (**DGMS**) model](https://arxiv.org/pdf/2010.12908.pdf) for the task of semantic code retrieval. Specifically, we first represent both natural
+In this paper, we propose an end-to-end [Deep Graph Matching and Searching (**DGMS**) model](https://dl.acm.org/doi/abs/10.1145/3447571) for the task of semantic code retrieval. Specifically, we first represent both natural
 language query texts and programming language codes with the unified graph structured data, and then use the proposed graph matching and searching model to retrieve the best
 matching code snippet.
 ![system](./Model.png)
